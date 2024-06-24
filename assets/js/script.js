@@ -74,7 +74,7 @@ var acc = document.getElementsByClassName("accordion");
           if (pannel.style.display === "block") {
             pannel.style.display = "none";
           } else {
-            pannel.style.display = "block";
+            pannel.style.display = "block"
           }
         });
       }
